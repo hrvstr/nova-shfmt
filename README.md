@@ -1,9 +1,7 @@
-# ShellCheck for Nova
+# shfmt for Nova
 
-A extension for Nova which integrates [ShellCheck](https://www.shellcheck.net) for static analysis of shell
+A extension for Nova which integrates [shfmt](https://github.com/mvdan/sh) for parsing, formatting and interpreting of shell
 scripts in the [Nova](https://nova.app) text editor.
-
-**[Install](https://extensions.panic.com/extensions/net.51degrees/net.51degrees.shellcheck/)**
 
 ## Development
 
